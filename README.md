@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hey there! I'm Leila Khaertdinova, aka leiluk1
 
-<!--
-**leiluk1/leiluk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a 🌟 novice and passionate data scientist & ML developer!
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my BSc in Computer Science at Innopolis University, I'm constantly leveling up my skills and exploring the fascinating realm of data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👇 Check out my projects below and join me if you're interested!
+
+### You can connect with me via:
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/leila1kh"><img align="center" alt="leiluk1 | Telegram" width="34px" src="https://www.svgrepo.com/show/271091/telegram.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:l.khaertdinova@innopolis.university"><img align="center" alt="leiluk1 | Mail" width="34px" src="https://www.svgrepo.com/show/373951/outlook.svg"/></a>
+</p>
+
