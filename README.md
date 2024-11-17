@@ -2,7 +2,9 @@
 
 ### About me
 
-👩‍💻 Research Fellow at the Research Center for Artificial Intelligence in Medicine at Innopolis University, where I contribute to innovative projects in AI and healthcare.
+👩‍💻 Research Assistant at the Research Center for Artificial Intelligence in Medicine, Innopolis University. 
+
+🧬 Currently working on innovative projects in AI and healthcare: interactive 3D image segmentation using eye gaze under supervision of [Bulat Ibragimov](https://scholar.google.com/citations?user=IPQZ4bkAAAAJ&hl=en) (University of Copenhagen), analysis of agreement between doctors and DL-based models under supervision of [Ivan Titov](https://scholar.google.com/citations?user=FKUc3vsAAAAJ&hl=en) (University of Edinburgh).
 
 🎓 4rd year BSc in Computer Science, Data Science Track at Innopolis University, I'm constantly leveling up my skills and exploring the fascinating realm of data science.
 
